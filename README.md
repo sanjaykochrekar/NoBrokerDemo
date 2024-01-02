@@ -9,6 +9,9 @@
 - Used SDWebImage for loading and caching images
 - Installed SDWebImage using Swift Package Manager
 
+# Note:
+- Image in detail page are horizantally scrollable
+
 # UPDATE
 - Refactored the code
 - There are two branches
